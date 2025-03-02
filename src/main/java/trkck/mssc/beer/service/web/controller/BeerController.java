@@ -24,6 +24,8 @@ public class BeerController {
     }
     @PutMapping("/{beerId}")
     public ResponseEntity updateBeerById(@PathVariable("beerId") UUID beerId, @RequestBody BeerDto beerDto){
+
+        //to do Impl
         return new ResponseEntity(HttpStatus.NO_CONTENT);
     }
 
