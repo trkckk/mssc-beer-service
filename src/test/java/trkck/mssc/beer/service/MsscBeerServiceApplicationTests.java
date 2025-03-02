@@ -1,4 +1,4 @@
-package trkck.mssc.beer.service.msscbeerservice;
+package trkck.mssc.beer.service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
